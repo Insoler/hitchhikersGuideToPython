@@ -1,0 +1,4 @@
+Windspeed CHECKED at 15.0
+Windspeed CHANGED to 15.0
+Windspeed CHECKED at 25.0
+Windspeed CHECKED at 25.0

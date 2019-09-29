@@ -1,0 +1,10 @@
+Vessel count CHECKED at 0
+Vessel count CHANGED to 0
+Vessel count CHECKED at 0
+Vessel count CHANGED to 0
+Vessel count CHECKED at 2
+Vessel count CHECKED at 0
+Vessel count CHANGED to 0
+Vessel count CHECKED at 2
+Vessel count CHANGED to 2
+Vessel count CHECKED at 1

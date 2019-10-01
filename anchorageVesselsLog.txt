@@ -8,3 +8,12 @@ Vessel count CHANGED to 0
 Vessel count CHECKED at 2
 Vessel count CHANGED to 2
 Vessel count CHECKED at 1
+Vessel count CHECKED at 0
+2 Vessel added CHANGED to 0
+Vessel count CHECKED at 2
+1 Vessel subtracted CHANGED to 2
+Vessel count CHECKED at 0
+2 Vessel(s) added, Vessel count CHANGED to 2
+Vessel count CHECKED at 2
+1 Vessel(s) subtracted, Vessel count CHANGED to 1
+Vessel count CHECKED at 1
